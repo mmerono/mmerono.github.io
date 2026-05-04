@@ -4,14 +4,13 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Marta Meroño, I am from Barcelona and I love learning new skills. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- B.Sc. Bioinformatics (2020 - 2024)
+- M.Sc. Health Data Science (2025 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Bioinformatics Internship - Institut Josep Carreras - Bioinformatics core (2023 - 2024)
+- Bioinformatician Technician - Institut Josep Carreras - Blood Stem Cell Identity Lab (2024 - present)
